@@ -1,0 +1,7 @@
+FK 4
+KT 5
+BG 2
+GL 3
+LR 2
+RZ 2
+ZY 1
